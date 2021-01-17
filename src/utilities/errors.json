@@ -1,0 +1,11 @@
+{
+    "NO_DB": "Cannot find db file.",
+    "NOT_EXISTS": "Field not exists.",
+    "EMPTY": "Field is empty.",
+    "NOT_NUMERIC": "Field is not numeric.",
+    "NOT_STRING": "Field is not string.",
+    "TOO_LONG": "Field too long.",
+    "NOT_ARRAY": "Field is not array.",
+    "NOT_PREDEFINED": "Field is not predefined in db.",
+    "UNHANDLED_ERROR": "Unhandled error contact with support."
+}
